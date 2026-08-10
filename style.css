@@ -3,24 +3,6 @@ body {
   margin: 0;
   padding: 0;
 }
-header {
-  background: #2c3e50;
-  color: white;
-  padding: 1rem;
-}
-nav a {
-  color: white;
-  margin: 0 10px;
-  text-decoration: none;
-}
-section {
-  padding: 2rem;
-}
-footer {
-  background: #eee;
-  text-align: center;
-  padding: 1rem;
-}
 
 /* Header styling */
 header {
@@ -29,7 +11,23 @@ header {
   padding: 1rem;
 }
 
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+section {
+  padding: 2rem;
+}
+
 /* Section headings */
 h2 {
   color: #2980b9; /* Accent color */
+}
+
+footer {
+  background: #eee;
+  text-align: center;
+  padding: 1rem;
 }
