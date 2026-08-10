@@ -21,3 +21,15 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
+/* Header styling */
+header {
+  background-color: #2c3e50; /* NGO brand color */
+  color: white;
+  padding: 1rem;
+}
+
+/* Section headings */
+h2 {
+  color: #2980b9; /* Accent color */
+}
