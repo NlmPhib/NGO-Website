@@ -31,3 +31,16 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
+
+
+section {
+  margin: 2rem 0;
+}
+
+article {
+  background: #f9f9f9;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #2980b9; /* Accent color */
+}
